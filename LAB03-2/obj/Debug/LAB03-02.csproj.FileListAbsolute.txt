@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\Lab03\LAB03\LAB03-2\obj\Debug\LAB03-02.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Lab03\LAB03\LAB03-2\obj\Debug\LAB03_2.FormSoanThao.resources
+C:\Users\Administrator\Downloads\Lab03\LAB03\LAB03-2\obj\Debug\LAB03_2.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Lab03\LAB03\LAB03-2\obj\Debug\LAB03-02.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Lab03\LAB03\LAB03-2\obj\Debug\LAB03-02.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Lab03\LAB03\LAB03-2\obj\Debug\LAB03-2.exe
+C:\Users\Administrator\Downloads\Lab03\LAB03\LAB03-2\obj\Debug\LAB03-2.pdb
+C:\Users\Administrator\Downloads\Lab03\LAB03\LAB03-2\bin\Debug\LAB03-2.exe.config
+C:\Users\Administrator\Downloads\Lab03\LAB03\LAB03-2\bin\Debug\LAB03-2.exe
+C:\Users\Administrator\Downloads\Lab03\LAB03\LAB03-2\bin\Debug\LAB03-2.pdb
